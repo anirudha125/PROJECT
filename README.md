@@ -17,7 +17,7 @@ The model is trained with the following setup:
 - **Mixed Precision Training:** Utilizes PyTorch’s autocast and GradScaler for faster computations and reduced memory usage.
 
 ## Results
-The PixelWarrior Model successfully enhances low-light images, providing high-quality outputs with improved visibility. The combination of UNet architecture and MLP blocks allows the model to capture intricate details and enhance images effectively. Achieved an average psnr of 19 on training dataset with a batch size of 4.
+The PixelWarrior Model successfully enhances low-light images, providing high-quality outputs with improved visibility. The combination of UNet architecture and MLP blocks allows the model to capture intricate details and enhance images effectively. Achieved an average psnr of 21 on training dataset with a batch size of 4.
 
 ## Model Weights 
 Here is the drive for the weights 
